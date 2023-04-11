@@ -1,1 +1,1 @@
-Hi! I'm a beginner programmer and a student learning Python.
+Hi! I'm a student and intermediate programmer learning Python.
